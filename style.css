@@ -6,7 +6,6 @@
 
 #body-index {
     height: 100vh;
-
 }
 
 body {
@@ -61,7 +60,7 @@ h2 {
     margin-bottom: 30px;
 }
 
-.description {
+.description-text {
     margin-bottom: 50px;
 }
 
